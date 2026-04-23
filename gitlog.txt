@@ -1,3 +1,19 @@
-ad6b6f7 Update webpagesGL.html
-095cb73 Update webpagesGL.html
-4e9be0b Add files via upload
+commit ad6b6f7
+Author: Ingrid Banos
+Update webpagesGL.html
+
+commit 095cb73
+Author: Ingrid Banos
+Update webpagesGL.html
+
+commit 4e9be0b
+Author: Ingrid Banos
+Add files via upload
+
+commit 42000ef
+Author: Ingrid Banos
+Create commits_imbanos.txt
+
+commit 9fd2430
+Author: Ingrid Banos
+Initial commit
